@@ -6,7 +6,7 @@ def add(a, b):
 
 def subtract(a, b):
     """Subtract b from a and return the result."""
-return a - b
+    return a - b
 
 def multiply(a, b):
     """Multiply two numbers and return the result."""
